@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/binarySearch/binarySearch.iml" filepath="$PROJECT_DIR$/binarySearch/binarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataStructure2.iml" filepath="$PROJECT_DIR$/dataStructure2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fibonacciSearch/fibonacciSearch.iml" filepath="$PROJECT_DIR$/fibonacciSearch/fibonacciSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertValueSearch/insertValueSearch.iml" filepath="$PROJECT_DIR$/insertValueSearch/insertValueSearch.iml" />
+    </modules>
+  </component>
+</project>
